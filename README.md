@@ -1,6 +1,6 @@
-- 👋 Hi,I’m Dipali Dhanwani(@Vfgghg)
+- 👋 Hi,I’m Dipali(@Vfgghg)
 - 👀 I’m interested in web development, Writing blogs, ect.
-- 🌱 I’m currently learning Computer Engineering from Marwadi University.
+- 🌱 I’m currently learning Computer Engineering. 
 - 💞️ I’m looking to collaborate with other amazing and talented people.
 
 <!---
